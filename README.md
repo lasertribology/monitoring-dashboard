@@ -25,23 +25,8 @@ Please refer to websocket documentation [here](./websocket.md)
     - As a user, I want the option to view each server's metrics in a separate detailed view so that I can focus on a single server's performance when needed.
 - [ ] 4. Server Selection
     - As a user, I want to select a specific server from a list to view its metrics so that I can quickly navigate to the data I am interested in.
-
-
-## Bonus Stories
-- [ ] 1. Responsive Dashboard Design
+- [ ] 5. Responsive Dashboard Design
     - As a user, I need the dashboard to be responsive to different screen sizes so that I can view the metrics clearly on any device.
-- [ ] 2. Aggregate Server Metrics View
-    - As a user, I want to be able to view all servers' metrics in a single comprehensive view to get an overview of the overall system health.
-- [ ] 3. Metric Toggling
-    - As a user, I want to toggle CPU or memory metrics on and off so that I can control which data is displayed according to my current needs.
-
-
-## Extra Bonuses
-
-- [ ] Highly reusable components
-- [ ] Polish and UX
-- [ ] Tests
-- [ ] Deployment
 
 ## Delivery
 
