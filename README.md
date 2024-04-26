@@ -28,11 +28,11 @@ Please refer to websocket documentation [here](./websocket.md)
 
 
 ## Bonus Stories
-- [ ] 1. Responsive Dashboard Design (Bonus)
+- [ ] 1. Responsive Dashboard Design
     - As a user, I need the dashboard to be responsive to different screen sizes so that I can view the metrics clearly on any device.
-- [ ] 2. Aggregate Server Metrics View (Bonus)
+- [ ] 2. Aggregate Server Metrics View
     - As a user, I want to be able to view all servers' metrics in a single comprehensive view to get an overview of the overall system health.
-- [ ] 3. Metric Toggling (Bonus)
+- [ ] 3. Metric Toggling
     - As a user, I want to toggle CPU or memory metrics on and off so that I can control which data is displayed according to my current needs.
 
 
